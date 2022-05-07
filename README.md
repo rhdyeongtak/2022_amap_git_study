@@ -15,7 +15,7 @@
 * ## (h6) __코드__
    * c언어 과제 마지막 문제
 
-'''c
+```c
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 int main() {
@@ -32,4 +32,5 @@ int main() {
 	printf("1부터 %d까지의 합이 %d입니다.", i, sum);
 	return 0;
 }
-'''
+```
+
